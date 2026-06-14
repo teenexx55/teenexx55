@@ -22,7 +22,6 @@ const teenexx = {
   university: "Amity University Noida — B.Tech CSE (International 2+2)",
   currently:  ["Learning DSA in C++", "Building full-stack projects", "Grinding LeetCode 🧠"],
   fun_fact:   "I debug at 2am and somehow that's when it all makes sense",
-  hobbies:    ["coding ✦", "korean stuff 🌸", "aesthetics", "overthinking my project names"],
 };
 ```
 
