@@ -1,12 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=hey,+i'm+Teenexx+✦&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=full-stack+dev+%7C+cs+student+%7C+building+cool+stuff&descAlignY=60&descColor=ffe4f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=120&section=header" width="100%"/>
 
+</div>
+
+<!-- PIXEL ART ROOM GIF — upload as 'pixel-room.gif' to your repo -->
+<div align="center">
+<img src="./pixel-room.gif" width="100%" style="max-width:700px"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=MERN+Stack+Developer+🌐;C%2B%2B+%7C+DSA+Grinder+💪;Making+the+internet+prettier+✨)](https://git.io/typing-svg)
+# ✦ Sumedha Gupta
+### `Teenexx` · full-stack dev · cs student · building cool stuff
+
+*"Trying to find meaning in life before time runs out"*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Find+me+in+the+terminal+🖥️;Grinding+DSA+like+my+life+depends+on+it+💀;Making+the+internet+prettier+✨;MERN+Stack+Developer+🌐)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,16 +24,36 @@
 
 ### ✦ about me
 
+<table>
+<tr>
+<td width="55%">
+
 ```js
 const teenexx = {
   name:       "Sumedha Gupta",
   alias:      "Teenexx",
   location:   "Greater Noida, India 🇮🇳",
-  university: "Amity University Noida — B.Tech CSE (International 2+2)",
-  currently:  ["Learning DSA in C++", "Building full-stack projects", "Grinding LeetCode 🧠"],
-  fun_fact:   "I debug at 2am and somehow that's when it all makes sense",
+  university: "Amity University Noida",
+              // B.Tech CSE · International 2+2
+  currently:  [
+    "Learning DSA in C++ 🧠",
+    "Building full-stack projects 🛠️",
+    "Grinding LeetCode 💀",
+  ],
+  fun_fact:   "I debug at 2am and that's when it clicks",
+  hobbies:    ["coding ✦", "korean stuff 🌸", "aesthetics"],
 };
 ```
+
+</td>
+<td width="45%" align="center">
+
+<!-- ANIME TYPING GIF — upload as 'typing.gif' to your repo -->
+<img src="./typing.gif" width="100%" style="border-radius:12px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,6 +91,13 @@ const teenexx = {
 
 ---
 
+<!-- KOREAN COLLAGE — upload as 'aesthetic.jpg' to your repo -->
+<div align="center">
+<img src="./aesthetic.jpg" width="60%" style="border-radius:16px; opacity:0.9"/>
+</div>
+
+---
+
 ### ✦ featured projects
 
 <div align="center">
@@ -95,7 +132,7 @@ Real-time cafe locator using Overpass API + geolocation
 ![HTML5](https://img.shields.io/badge/HTML5-ffe4cc?style=flat-square&logo=html5&logoColor=c2410c)
 ![CSS3](https://img.shields.io/badge/CSS3-dbeafe?style=flat-square&logo=css3&logoColor=1d4ed8)
 ![JavaScript](https://img.shields.io/badge/JS-fde8c8?style=flat-square&logo=javascript&logoColor=8b5a00)
-![OpenStreetMap](https://img.shields.io/badge/Overpass_API-d1fae5?style=flat-square&logoColor=065f46)
+![Overpass API](https://img.shields.io/badge/Overpass_API-d1fae5?style=flat-square&logoColor=065f46)
 
 [![Live](https://img.shields.io/badge/🔗_Live_Demo-ffb3c6?style=flat-square)](https://cafe-finderr.netlify.app)
 [![Repo](https://img.shields.io/badge/📁_Repo-ede9fe?style=flat-square)](https://github.com/teenexx55)
@@ -118,9 +155,7 @@ Real-time cafe locator using Overpass API + geolocation
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=teenexx55&theme=tokyonight&hide_border=true&background=0d1117&ring=F9A8D4&fire=F9A8D4&currStreakLabel=F9A8D4" width="49%"/>
-
 </div>
 
 ---
@@ -150,6 +185,6 @@ Real-time cafe locator using Overpass API + geolocation
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer" width="100%"/>
 
-<sub>✦ Sumedha Gupta · made with too much coffee and late nights ✦</sub>
+<sub>✦ Sumedha Gupta · trying to find meaning in life before time runs out ✦</sub>
 
 </div>
