@@ -2,22 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=120&section=header" width="100%"/>
 
-</div>
-
-<!-- PIXEL ART ROOM GIF — upload as 'pixel-room.gif' to your repo -->
-<div align="center">
-<img src="./pixel-room.gif" width="100%" style="max-width:700px"/>
-</div>
-
-<div align="center">
-
 # ✦ Sumedha Gupta
 ### `Teenexx` · full-stack dev · cs student · building cool stuff
 
 *"Trying to find meaning in life before time runs out"*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Find+me+in+the+terminal+🖥️;Grinding+DSA+like+my+life+depends+on+it+💀;Making+the+internet+prettier+✨;MERN+Stack+Developer+🌐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=MERN+Stack+Developer;Grinding+DSA+like+my+life+depends+on+it)](https://git.io/typing-svg)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1d84a49a-c9bc-4ece-a3b3-c6910d1b3aa4" width="100%"/>
 </div>
 
 ---
@@ -40,15 +37,16 @@ const teenexx = {
     "Building full-stack projects 🛠️",
     "Grinding LeetCode 💀",
   ],
-  fun_fact:   "I debug at 2am and that's when it clicks"
+  fun_fact:   "I debug at 2am and that's when it clicks",
 };
 ```
 
 </td>
 <td width="45%" align="center">
 
-<!-- ANIME TYPING GIF — upload as 'typing.gif' to your repo -->
-<img src="./typing.gif" width="100%" style="border-radius:12px"/>
+<img src="https://github.com/user-attachments/assets/958e0334-7fd7-455c-bc4e-c468cc59ccb2" width="100%" style="border-radius:12px"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&multiline=false&repeat=true&width=300&height=30&lines=Find+me+in+the+terminal)](https://git.io/typing-svg)
 
 </td>
 </tr>
@@ -90,9 +88,8 @@ const teenexx = {
 
 ---
 
-<!-- KOREAN COLLAGE — upload as 'aesthetic.jpg' to your repo -->
 <div align="center">
-<img src="./aesthetic.jpg" width="60%" style="border-radius:16px; opacity:0.9"/>
+<img src="https://github.com/user-attachments/assets/d867cce0-8bfa-423e-84e7-f10c41b0af63" width="100%" style="border-radius:16px;"/>
 </div>
 
 ---
