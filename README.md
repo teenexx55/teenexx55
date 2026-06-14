@@ -40,8 +40,7 @@ const teenexx = {
     "Building full-stack projects 🛠️",
     "Grinding LeetCode 💀",
   ],
-  fun_fact:   "I debug at 2am and that's when it clicks",
-  hobbies:    ["coding ✦", "korean stuff 🌸", "aesthetics"],
+  fun_fact:   "I debug at 2am and that's when it clicks"
 };
 ```
 
